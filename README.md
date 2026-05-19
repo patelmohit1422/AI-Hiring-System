@@ -77,38 +77,33 @@ Hiring is slow and biased. Recruiters spend hours reading resumes and conducting
 
 
 ### Landing Page
-<img width="2000" height="1019" alt="image" src="https://github.com/user-attachments/assets/0ec17d03-6778-4d02-bf34-083932feb00e" />
-<img width="2000" height="1018" alt="image" src="https://github.com/user-attachments/assets/123e37b6-c206-4571-a070-e4eb67a60c1a" />
-<img width="2000" height="1018" alt="image" src="https://github.com/user-attachments/assets/18d9ea1d-e0b7-4bbc-b2c8-c5a80cefdf18" />
+<img width="2000" height="1019" alt="image" src="https://github.com/user-attachments/assets/fcecd3ab-9229-4b1d-8a7c-ec17387fb6b5" />
+<img width="2000" height="1018" alt="image" src="https://github.com/user-attachments/assets/eab2b9e1-6b24-4ecf-8a80-24dac5b36fbf" />
+<img width="2000" height="1018" alt="image" src="https://github.com/user-attachments/assets/8d8d81de-c7d9-4cb8-b809-df74d4d55e9b" />
 
 
 ### Auth Page (Login / Signup)
-<img width="2000" height="1031" alt="image" src="https://github.com/user-attachments/assets/d87feed3-759b-4082-a1af-b83540c9ba23" />
-
+<img width="2000" height="1031" alt="image" src="https://github.com/user-attachments/assets/e77a0d46-5adf-42fe-9b41-7720ce4a095e" />
 
 ### Admin Dashboard
-<img width="2000" height="1019" alt="image" src="https://github.com/user-attachments/assets/a372dc28-787f-41d2-a059-c1ff9755392c" />
-
+<img width="2000" height="1019" alt="image" src="https://github.com/user-attachments/assets/c1ca8549-9a29-4220-918d-2ac314343851" />
 
 ### Recruiter Dashboard
-<img width="2000" height="1019" alt="image" src="https://github.com/user-attachments/assets/8bb13885-9520-4a0b-b46a-592e583716ff" />
-
+<img width="2000" height="1019" alt="image" src="https://github.com/user-attachments/assets/a4f8bc79-67dc-4dcf-9c08-d6ecaf130648" />
 
 ### Candidate Dashboard
-<img width="2000" height="1019" alt="image" src="https://github.com/user-attachments/assets/b3608f2d-baa8-42db-b111-fb858e205b08" />
-
+<img width="2000" height="1019" alt="image" src="https://github.com/user-attachments/assets/e12ed6cd-7185-40f1-a1b2-fb3088de3872" />
 
 ### Interview Page
-<img width="2000" height="1021" alt="image" src="https://github.com/user-attachments/assets/bd39bf64-a498-46a8-8b42-df08b622a0eb" />
-<img width="1280" height="652" alt="image" src="https://github.com/user-attachments/assets/bf3c26e9-029e-46b5-b9ee-2025589c9035" />
-
+<img width="2000" height="1021" alt="image" src="https://github.com/user-attachments/assets/e281a4e6-bc99-4d96-bbc6-bb3953faf7dd" />
+<img width="2000" height="1019" alt="image" src="https://github.com/user-attachments/assets/a7dafe22-3aab-4821-966e-0e2ba04ac2ae" />
 
 ### Results Page
-<img width="2000" height="1019" alt="image" src="https://github.com/user-attachments/assets/ee100f35-744c-4d1b-8d02-1579ad3a20f7" />
+<img width="2000" height="1019" alt="image" src="https://github.com/user-attachments/assets/1665cce9-e96c-45d9-a3bc-5ad2ac9e4ee5" />
 
 
 ## Application Progress
-<img width="2000" height="1019" alt="image" src="https://github.com/user-attachments/assets/e7464ff2-b98c-43b9-805a-904476eb093f" />
+<img width="2000" height="1019" alt="image" src="https://github.com/user-attachments/assets/0f29fc76-b58c-45d7-90b5-45d2db20cf48" />
 
 
 ---
