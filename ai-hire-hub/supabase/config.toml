@@ -1,0 +1,13 @@
+project_id = "dtkoenqyxptijpacpxdk"
+
+[functions.generate-questions]
+verify_jwt = false
+
+[functions.calculate-scores]
+verify_jwt = false
+
+[functions.admin-add-user]
+verify_jwt = false
+
+[functions.seed-data]
+verify_jwt = false
